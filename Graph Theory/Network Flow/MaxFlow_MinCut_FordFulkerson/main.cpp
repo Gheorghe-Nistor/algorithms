@@ -1,7 +1,7 @@
 /*
  * Edmonds-Karp's algorithm
  * Complexity: O(V*E^2)
- * https://www.infoarena.ro/problema/maxflow 100p
+ * https://www.infoarena.ro/problema/cuplaj
  */
 
 #include <iostream>

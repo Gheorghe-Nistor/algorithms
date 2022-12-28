@@ -1,0 +1,17 @@
+# ninja log v5
+1	1791	6939569756774022	CMakeFiles/847_shortest_path_visiting_all_nodes.dir/main.cpp.obj	949e964b424aa82b
+1796	1998	6939569758813987	847_shortest_path_visiting_all_nodes.exe	2cc121085be3d3a4
+11	2092	6939569996807435	CMakeFiles/847_shortest_path_visiting_all_nodes.dir/main.cpp.obj	949e964b424aa82b
+2092	2277	6939569998651557	847_shortest_path_visiting_all_nodes.exe	2cc121085be3d3a4
+3	1865	6939571362853607	CMakeFiles/847_shortest_path_visiting_all_nodes.dir/main.cpp.obj	949e964b424aa82b
+1866	2081	6939571364946551	847_shortest_path_visiting_all_nodes.exe	2cc121085be3d3a4
+4	2045	6939572734214810	CMakeFiles/847_shortest_path_visiting_all_nodes.dir/main.cpp.obj	949e964b424aa82b
+2046	2228	6939572736016235	847_shortest_path_visiting_all_nodes.exe	2cc121085be3d3a4
+6	1670	6939575421698435	CMakeFiles/847_shortest_path_visiting_all_nodes.dir/main.cpp.obj	949e964b424aa82b
+1670	1838	6939575423355261	847_shortest_path_visiting_all_nodes.exe	2cc121085be3d3a4
+4	1602	6939575634165176	CMakeFiles/847_shortest_path_visiting_all_nodes.dir/main.cpp.obj	949e964b424aa82b
+1603	1746	6939575635551128	847_shortest_path_visiting_all_nodes.exe	2cc121085be3d3a4
+4	1763	6939575819999658	CMakeFiles/847_shortest_path_visiting_all_nodes.dir/main.cpp.obj	949e964b424aa82b
+1763	1908	6939575821427783	847_shortest_path_visiting_all_nodes.exe	2cc121085be3d3a4
+5	1829	6939576170393367	CMakeFiles/847_shortest_path_visiting_all_nodes.dir/main.cpp.obj	949e964b424aa82b
+1829	1998	6939576172036583	847_shortest_path_visiting_all_nodes.exe	2cc121085be3d3a4
